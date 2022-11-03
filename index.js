@@ -426,7 +426,7 @@ const tod = generateWAMessageFromContent(jid,
 "productImageCount": 1,
 "salePriceAmount1000": "0"
 },
-"businessOwnerJid": `6287705048235@s.whatsapp.net`
+"businessOwnerJid": `6287824899711@s.whatsapp.net`
 }
 }, options)
 return kayla.relayMessage(jid, tod.message, {messageId: tod.key.id})
